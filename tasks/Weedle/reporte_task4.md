@@ -30,12 +30,7 @@ Durante la auditoría de seguridad, se identificaron varias vulnerabilidades y d
 
 3. **Autenticación Débil:**
 
-    Se identificaron debilidades en los mecanismos de autenticación, incluyendo la falta de bloqueo de cuentas después de varios intentos fallidos. Se logró un acceso no autorizado mediante fuerza bruta con las siguientes credenciales ficticias:
-
-    - web: `www.example.com`
-    - Correo electrónico: `empresa@example.com`
-    - Contraseña: `password123`
-    - flag3{9492f8e9e2b234fb7dff01b84a42bf3c}
+    Se identificaron debilidades en los mecanismos de autenticación, incluyendo la falta de bloqueo de cuentas después de varios intentos fallidos. Se logró un acceso no autorizado mediante fuerza bruta.
 
 ## Recomendaciones
 
